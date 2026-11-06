@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('storeline').select('page_name','sold_item','store_sell_price','store_currency').where('sold_item','Elysian spirit shield').limit(20).run()","bucket":[]}

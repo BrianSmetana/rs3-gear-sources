@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('infobox_item').select('page_name','item_name','item_id').where('item_id','32151').limit(5).run()","bucket":[{"item_name":"Hooded max cape","item_id":[32151],"page_name":"Hooded max cape"}]}

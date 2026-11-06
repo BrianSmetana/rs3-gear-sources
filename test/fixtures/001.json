@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('infobox_item').select('page_name','item_name','item_id').where('item_id','4151').limit(5).run()","bucket":[{"item_name":"Abyssal whip","item_id":[4151],"page_name":"Abyssal whip"}]}

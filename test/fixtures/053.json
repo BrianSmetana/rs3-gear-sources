@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('dropsline').select('page_name','item_name','drop_json').where(bucket.Or({'item_name','Sealed large rune pouch'},{'item_name','Purple dye'})).limit(100).run()","bucket":[]}

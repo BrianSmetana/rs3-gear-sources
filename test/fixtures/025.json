@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('recipe').select('page_name','production_output','production_json').where(bucket.Or({'production_output','Ascension signet I'},{'production_output','Ascension signet II'},{'production_output','Ascension signet III'},{'production_output','Ascension signet IV'},{'production_output','Ascension signet V'})).limit(25).run()","bucket":[]}

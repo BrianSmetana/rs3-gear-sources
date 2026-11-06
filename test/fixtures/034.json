@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('infobox_item').select('page_name','item_name','item_id').where('item_id','39812').limit(5).run()","bucket":[{"item_name":"Luck of the Dwarves","item_id":[39812],"page_name":"Luck of the Dwarves"}]}

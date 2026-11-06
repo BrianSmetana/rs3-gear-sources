@@ -1,0 +1,9 @@
+{
+  "name": "Gear Sources",
+  "version": "0.1.0",
+  "contactEmailAddress": "CHANGE_ME@example.com",
+  "optionalPermissions": ["httpAccess"],
+  "urls": {
+    "wiki": "https://runescape.wiki"
+  }
+}

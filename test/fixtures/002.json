@@ -1,0 +1,1 @@
+{"bucketQuery":"bucket('infobox_item').select('page_name','item_name','item_id').where('item_id','1127').limit(5).run()","bucket":[]}
